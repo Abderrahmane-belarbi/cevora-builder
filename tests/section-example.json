@@ -1,0 +1,327 @@
+{
+  "title": "Software Engineer Resume",
+  "header": {
+    "name": "John Doe",
+    "title": "Senior Software Engineer",
+    "email": "john.doe@example.com",
+    "phone": "+1 234 567 8900",
+    "location": "San Francisco, CA",
+    "website": "https://johndoe.dev"
+  },
+  "sections": {
+    "summaries": {
+      "name": "Professional Summary",
+      "column": 0,
+      "order": 0,
+      "items": [
+        {
+          "text": "Experienced software engineer with 8+ years of expertise."
+        }
+      ]
+    },
+    "experiences": {
+      "name": "Work Experience",
+      "column": 0,
+      "order": 1,
+      "items": [
+        {
+          "workplace": "Tech Company Inc",
+          "position": "Senior Software Engineer",
+          "location": "San Francisco, CA",
+          "dateRange": {
+            "fromYear": 2020,
+            "fromMonth": 0,
+            "toYear": 2024,
+            "toMonth": 9,
+            "isOngoing": true
+          },
+          "description": "Leading microservices development",
+          "bullets": [
+            "Improved system performance by 60%",
+            "Mentored 5 developers"
+          ],
+          "link": "https://example.com",
+          "companyLogo": "https://example.com/logo.png"
+        }
+      ]
+    },
+    "educations": {
+      "name": "Education",
+      "column": 0,
+      "order": 2,
+      "items": [
+        {
+          "institution": "University of California",
+          "degree": "BS in Computer Science",
+          "location": "Berkeley, CA",
+          "dateRange": {
+            "fromYear": 2014,
+            "fromMonth": 8,
+            "toYear": 2018,
+            "toMonth": 4
+          },
+          "gpa": "3.8",
+          "maxGpa": "4.0",
+          "gpaText": "GPA",
+          "bullets": ["Dean's List"],
+          "companyLogo": "https://example.com/logo.png"
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "column": 0,
+      "order": 3,
+      "items": [
+        {
+          "title": "CI/CD Tool",
+          "location": "GitHub",
+          "dateRange": {
+            "fromYear": 2023,
+            "fromMonth": 0,
+            "isOngoing": true
+          },
+          "description": "Automation tool",
+          "bullets": ["500+ GitHub stars"],
+          "link": "https://github.com/example"
+        }
+      ]
+    },
+    "volunteering": {
+      "name": "Volunteer Work",
+      "column": 0,
+      "order": 4,
+      "items": [
+        {
+          "institution": "Code for Good",
+          "role": "Mentor",
+          "location": "San Francisco",
+          "dateRange": {
+            "fromYear": 2022,
+            "fromMonth": 0,
+            "isOngoing": true
+          },
+          "description": "Teaching coding",
+          "bullets": ["Mentored 20+ students"],
+          "companyLogo": "https://example.com/logo.png"
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "column": 0,
+      "order": 5,
+      "items": [
+        {
+          "title": "Microservices Best Practices",
+          "author": "John Doe",
+          "edition": "IEEE Vol. 38",
+          "dateRange": {
+            "fromYear": 2023,
+            "fromMonth": 5
+          },
+          "description": "Architecture guide",
+          "link": "https://doi.org/example"
+        }
+      ]
+    },
+    "customs": {
+      "name": "Custom Section",
+      "column": 0,
+      "order": 6,
+      "items": [
+        {
+          "title": "Tech Blog",
+          "description": "Writing about architecture",
+          "dateRange": {
+            "fromYear": 2021,
+            "fromMonth": 0,
+            "isOngoing": true
+          },
+          "icon": "38-free-pencil"
+        }
+      ]
+    },
+    "industryExperiences": {
+      "name": "Skills",
+      "column": 1,
+      "order": 0,
+      "items": [
+        {
+          "name": "JavaScript",
+          "level": 9,
+          "icon": "54-free-code"
+        }
+      ]
+    },
+    "skills": {
+      "name": "Technologies",
+      "column": 1,
+      "order": 1,
+      "items": [
+        {
+          "title": "Frontend",
+          "description": "Web development",
+          "tags": ["React", "TypeScript"]
+        }
+      ]
+    },
+    "languages": {
+      "name": "Languages",
+      "column": 1,
+      "order": 2,
+      "items": [
+        {
+          "name": "English",
+          "level": 5,
+          "levelText": "Native"
+        }
+      ]
+    },
+    "certificates": {
+      "name": "Certifications",
+      "column": 1,
+      "order": 3,
+      "items": [
+        {
+          "title": "AWS Solutions Architect",
+          "issuer": "Amazon Web Services"
+        }
+      ]
+    },
+    "courses": {
+      "name": "Courses",
+      "column": 1,
+      "order": 4,
+      "items": [
+        {
+          "title": "System Design",
+          "description": "Advanced course"
+        }
+      ]
+    },
+    "achievements": {
+      "name": "Achievements",
+      "column": 1,
+      "order": 5,
+      "items": [
+        {
+          "title": "Hackathon Winner",
+          "description": "First place 2023",
+          "icon": "83-free-prize-award"
+        }
+      ]
+    },
+    "awards": {
+      "name": "Awards",
+      "column": 1,
+      "order": 6,
+      "items": [
+        {
+          "title": "Employee of the Year",
+          "description": "2023",
+          "icon": "80-medal-01"
+        }
+      ]
+    },
+    "interests": {
+      "name": "Interests",
+      "column": 1,
+      "order": 7,
+      "items": [
+        {
+          "title": "Photography",
+          "description": "Landscape photography",
+          "icon": "99-free-camera"
+        }
+      ]
+    },
+    "strengths": {
+      "name": "Strengths",
+      "column": 1,
+      "order": 8,
+      "items": [
+        {
+          "title": "Problem Solving",
+          "description": "Analytical thinking",
+          "icon": "148-brain-01"
+        }
+      ]
+    },
+    "findMeOnline": {
+      "name": "Online Profiles",
+      "column": 1,
+      "order": 9,
+      "items": [
+        {
+          "title": "GitHub",
+          "link": "https://github.com/johndoe",
+          "icon": "github"
+        }
+      ]
+    },
+    "books": {
+      "name": "Reading List",
+      "column": 1,
+      "order": 10,
+      "items": [
+        {
+          "title": "Clean Code",
+          "author": "Robert Martin",
+          "image": "https://example.com/book.jpg"
+        }
+      ]
+    },
+    "quotes": {
+      "name": "Quotes",
+      "column": 1,
+      "order": 11,
+      "items": [
+        {
+          "quote": "Code is poetry",
+          "author": "Anonymous"
+        }
+      ]
+    },
+    "references": {
+      "name": "References",
+      "column": 1,
+      "order": 12,
+      "items": [
+        {
+          "name": "Jane Smith",
+          "contact": "jane@example.com"
+        }
+      ]
+    },
+    "mytime": {
+      "name": "Time Allocation",
+      "column": 1,
+      "order": 13,
+      "items": [
+        {
+          "pieces": 24,
+          "data": [
+            { "title": "Coding", "value": 8 },
+            { "title": "Learning", "value": 3 },
+            { "title": "Sleep", "value": 7 }
+          ]
+        }
+      ]
+    }
+  },
+  "style": {
+    "layout": "double",
+    "colors": ["#000000", "#008CFF"],
+    "fontBody": "opensans",
+    "fontHeading": "montserrat",
+    "fontSize": 2,
+    "hideBranding": false,
+    "isLetterSize": true,
+    "marginOption": 2,
+    "pageMarginOption": 3,
+    "columnLayoutOption": 1,
+    "lineHeightOption": 1,
+    "headerExtraSpacing": 0
+  }
+}
